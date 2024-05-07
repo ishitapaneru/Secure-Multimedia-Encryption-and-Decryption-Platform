@@ -1,0 +1,2 @@
+# Secure-Multimedia-Encryption-and-Decryption-Platform
+This project presents a user-centric, GUI-based encryption platform for safeguarding multimedia files, employing Core Java and Cryptography principles. It ensures enhanced data security  through robust symmetric key encryption algorithms. The platform's intuitive graphical interface facilitates easy encryption and decryption of multimedia files.
